@@ -2,6 +2,5 @@
 #EXTINF:-1 tvg-id="vtv6" tvg-name="VTV1" tvg-logo="https://example.com/vtv1.png" group-title="Truyền hình",VTV6 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="vtv6" tvg-name="VTV1" tvg-logo="https://example.com/vtv1.png" group-title="Truyền hình",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7" tvg-name="VTV1" tvg-logo="https://example.com/vtv1.png" group-title="Truyền hình",VTV7 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv7__vtv1080p-h264/index.m3u8
