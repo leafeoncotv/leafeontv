@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="Kênh Quốc Gia",VTV1 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="Khoa Học",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="Khoa Học",VTV2 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-id="BongDaTV" tvg-name="VTV3 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="Thể Thao",VTV3
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="Thể Thao",VTV3
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
 
 
