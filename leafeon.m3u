@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="Kênh Quốc Gia",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV1 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="Khoa Học",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="VTV",VTV2 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="PHIM Truyện",VTV3
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="VTV",VTV3
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
 
+#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6 HD" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/39a423131f-thumb-vtv6.webp&width=640" group-title="VTV",VTV6 HD
+https://live-vtv-aws.vtvdigital.vn/9o7gb_zRNr84LuFER9A0vQ/1792951200/aws/vtv6_free/live/vtv6_720p/chunks.m3u8
 
 
 
