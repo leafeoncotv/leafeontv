@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV1 HD
-https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
+https://cdn-live.vtv.vn/q1TV4qt61PTrsVQoHiWWHw/1793197161/live/vtv1/720p.m3u8?_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="VTV",VTV2 HD
 https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
