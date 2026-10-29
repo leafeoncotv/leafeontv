@@ -1,29 +1,2 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV1 HD
-https://cdn-live.vtv.vn/q1TV4qt61PTrsVQoHiWWHw/1793197161/live/vtv1/720p.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2 HD" tvg-logo="https://example.com/logo/vtv3.png" group-title="VTV",VTV2 HD
-https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="VTV",VTV3
-https://vtvgolive-vtv02.vtvdigital.vn/VEOL37fQvsfcKNYePPDHNA/1790924488/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6 HD" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/39a423131f-thumb-vtv6.webp&width=640" group-title="VTV",VTV6 HD
-https://live-vtv-aws.vtvdigital.vn/9o7gb_zRNr84LuFER9A0vQ/1792951200/aws/vtv6_free/live/vtv6_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4 HD" tvg-logo="https://example.com/logo/bdtv.png" group-title="VTV",VTV4
-https://vtvgolive-vtv02.vtvdigital.vn/WFu-0nbj42PnlhL3LV9EeQ/1792985609/hls/vtv/live/vtv4__vtv1080p-h264/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5 HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV5 HD
-https://vtvgolive-vtv02.vtvdigital.vn/WFu-0nbj42PnlhL3LV9EeQ/1792985609/hls/vtv/live/vtv5__vtv1080p-h264/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV5TN" tvg-name="VTV5TN HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV5TN HD
-https://vtvgolive-vtv02.vtvdigital.vn/WFu-0nbj42PnlhL3LV9EeQ/1792985609/hls/vtv/live/vtv5tn__vtv1080p-h264/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV5TN" tvg-name="VTV5TN HD" tvg-logo="https://example.com/logo/vtv1.png" group-title="VTV",VTV5TN HD
-https://ec02-pop4-hlc.tv360.vn/bpk-token/g5ebgyc26mawa72ftygtmsatma3uqe3a/bpk-tv/191/output/191-audio_214835_und_iv_1=214800-video_iv_1=5254000.m3u8
-
-
-
-
-
